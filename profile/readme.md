@@ -9,6 +9,10 @@ Most of the software we use for calculate stuff are made by our fantastic engine
 
 But remember, we are not a software house. Our stuff may be shitty but it doesn't matter since we are mad rocketers, not nerdy developers: in fact **the main reason we use this repos** is to **archive missions data**.
 
+## List&index of the project
+
+- To be published soon.
+
 ## Contributing
 
 Since nodoby know us, our softwares are little shits and our mission data is not editable, idk really how somebody would want to contribute. But if you consider yourself so mad, open a pull request to suggest something.
@@ -23,3 +27,9 @@ Model rocketry is a fun and inexpensive way for students to learn about forces a
 - There are some special dangers during launch. Only use the electrical launching devices that come with your launch rail and launch pad. Don't try to use fuses and matches. Make sure that the safety key is removed when connecting the clips to the wires of the igniters. You don't want the rocket going off in your hands. Make sure that no one is "playing with" the launcher while you are at the pad. Make sure that the pad is securely anchored so that it doesn't tilt or fall over with a large rocket. Be careful near the pad. Place a cup over the top of the launch rail when you are at the pad so that you don't accidentally get poked in the eye. Clear the pad area before launching. Call out a countdown so that others in the area are aware that a rocket is being launched. Don't fly in high winds or in threatening weather. Weather cocking makes it very hard to predict where your rocket will come down in high winds.
 
 - Fly your rocket in an open field where there are no obstacles. Never fly near trees. If your rocket ends up in a tree, you're going to need a new rocket. Never fly near a highway. You can be hurt chasing your rocket across the highway and people driving by are often distracted by model rockets. Never fly near houses. Your rocket can do damage to the windows, sidings and roof of a house. If your rocket ends up on the roof, you're going to need a new rocket. And never, ever fly near high tension wires. That's a sure way to loose a rocket.
+
+## Resources we suggest
+- 🇺🇸 ![NASA Guide to Rockets](https://www.grc.nasa.gov/www/k-12/rocket/shortr.html) - The NASA Guide to Rockets website offers a list of rocket-related topics with accompanying slides and scientific explanations. Pages with interactive calculators and graphics are marked in red, as well as simulation pages which contain Java applets. For those who find the number of pages overwhelming, guided tours through the site are also available.
+- 🇺🇸 ![NASA PowerPoint presentatons](https://www.grc.nasa.gov/www/k-12/rocket/topics.htm)
+- 🇦🇺 ![NSW Rocketry Association resources](http://nswrocketry.org.au/rocket-resources/)
+- ![Rocket equations](http://www.rocketmime.com/rockets/rckt_eqn.html)
