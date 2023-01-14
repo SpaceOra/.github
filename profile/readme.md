@@ -19,7 +19,8 @@ Since nodoby know us, our softwares are little shits and our mission data is not
 
 ## International safety guidelines
 
-Model rocketry is a fun and inexpensive way for students to learn about forces and vehicle response, but it can also be dangerous. Also big organizations, such as NASA, take safety seriously. Here are some advices:
+> Here there are NASA advices about model rocketry. If intrested, ![read the complete "Model Rocket Safety Code"](https://www.nar.org/safety-information/model-rocket-safety-code/) by the National Rocketry Association (USA).
+
  Only use pre-packaged solid model rocket engines. They are relatively inexpensive and have been designed with safety in mind for your model rockets. Check the engines before installing them in the rocket to make sure that the casing and nozzle are sound and have no defects or cracks. Never try to re-use or re-pack a spent solid rocket engine. Don't brew your own fuel. This is extremely dangerous and students are killed and maimed every year attempting to mix their own fuels. Don't attempt to modify the nozzle or the casing of the solid rocket engine.
 
 - For the rocket itself, use only cardboard tubes and balsa or plastic fins and nose cones. Don't use any metal parts. Before flight, check for loose fins, launch lugs, and shock cords. Check the condition of your recovery system. Check the stability of your rocket with the engine installed. Be sure that your nose cone does not fit too tightly in the body tube. A nose cone that is too tight can cause the engine to be expelled by the ejection charge with subsequent loss of the rocket.
