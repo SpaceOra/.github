@@ -5,7 +5,7 @@ The Italian Open Rocketry Association, well-known as ORA, is the first italian o
 
 ## What can you find here?
 
-Most of the software we use for calculate stuff are made by our fantastic engineering team so you can find them somewhere in these repos. Actually our softwares are really simple since we don't need to elaborate complex data tbh. For that reason they are also easy to build&run (they are usually ![C++](https://img.shields.io/badge/Language-C%2B%2B-ff69b4) scripts, for who's wondering - *New to building c++? You may check ![this](https://learn.microsoft.com/en-us/cpp/build/walkthrough-compiling-a-native-cpp-program-on-the-command-line?view=msvc-170) guide ;)*  - Sometimes we offer the Excel sheet alternative. In that case, bro, you just need to download it.
+Most of the software we use for calculate stuff are made by our fantastic engineering team so you can find them somewhere in these repos. Actually our softwares are really simple since we don't need to elaborate complex data tbh. For that reason they are also easy to build&run (they are usually ![C++](https://img.shields.io/badge/Language-C%2B%2B-ff69b4) scripts, for who's wondering - *New to building c++? You may check <a href="https://learn.microsoft.com/en-us/cpp/build/walkthrough-compiling-a-native-cpp-program-on-the-command-line?view=msvc-170"> this </a> guide ;)*  - Sometimes we offer the Excel sheet alternative. In that case, bro, you just need to download it.
 
 But remember, we are not a software house. Our stuff may be shitty but it doesn't matter since we are mad rocketers, not nerdy developers: in fact **the main reason we use this repos** is to **archive missions data**.
 
@@ -19,7 +19,7 @@ Since nodoby know us, our softwares are little shits and our mission data is not
 
 ## International safety guidelines
 
-> Here there are NASA advices about model rocketry. If intrested, ![read the complete "Model Rocket Safety Code"](https://www.nar.org/safety-information/model-rocket-safety-code/) by the National Rocketry Association (USA).
+> Here there are NASA advices about model rocketry. If intrested, <a href="https://www.nar.org/safety-information/model-rocket-safety-code/"> read the complete "Model Rocket Safety Code" </a> by the National Rocketry Association (USA).
 
  Only use pre-packaged solid model rocket engines. They are relatively inexpensive and have been designed with safety in mind for your model rockets. Check the engines before installing them in the rocket to make sure that the casing and nozzle are sound and have no defects or cracks. Never try to re-use or re-pack a spent solid rocket engine. Don't brew your own fuel. This is extremely dangerous and students are killed and maimed every year attempting to mix their own fuels. Don't attempt to modify the nozzle or the casing of the solid rocket engine.
 
@@ -30,7 +30,7 @@ Since nodoby know us, our softwares are little shits and our mission data is not
 - Fly your rocket in an open field where there are no obstacles. Never fly near trees. If your rocket ends up in a tree, you're going to need a new rocket. Never fly near a highway. You can be hurt chasing your rocket across the highway and people driving by are often distracted by model rockets. Never fly near houses. Your rocket can do damage to the windows, sidings and roof of a house. If your rocket ends up on the roof, you're going to need a new rocket. And never, ever fly near high tension wires. That's a sure way to loose a rocket.
 
 ## Resources we suggest
-- 🇺🇸 ![NASA Guide to Rockets](https://www.grc.nasa.gov/www/k-12/rocket/shortr.html) - The NASA Guide to Rockets website offers a list of rocket-related topics with accompanying slides and scientific explanations. Pages with interactive calculators and graphics are marked in red, as well as simulation pages which contain Java applets. For those who find the number of pages overwhelming, guided tours through the site are also available.
-- 🇺🇸 ![NASA PowerPoint presentatons](https://www.grc.nasa.gov/www/k-12/rocket/topics.htm)
-- 🇦🇺 ![NSW Rocketry Association resources](http://nswrocketry.org.au/rocket-resources/)
-- ![Rocket equations](http://www.rocketmime.com/rockets/rckt_eqn.html)
+- 🇺🇸 <a href="https://www.grc.nasa.gov/www/k-12/rocket/shortr.html"> NASA Guide to Rockets </a> - The NASA Guide to Rockets website offers a list of rocket-related topics with accompanying slides and scientific explanations. Pages with interactive calculators and graphics are marked in red, as well as simulation pages which contain Java applets. For those who find the number of pages overwhelming, guided tours through the site are also available.
+- 🇺🇸 <a href="https://www.grc.nasa.gov/www/k-12/rocket/topics.htm" > NASA PowerPoint presentatons </a>
+- 🇦🇺 <a href="http://nswrocketry.org.au/rocket-resources/"> NSW Rocketry Association resources </a>
+- <a href="http://www.rocketmime.com/rockets/rckt_eqn.html"> Rocket equations </a>
